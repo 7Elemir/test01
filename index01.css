@@ -1,0 +1,90 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	min-width: 300px;
+	margin: auto;
+	
+ }
+
+ .page {
+	 background-color: sandybrown;
+	 overflow:hidden;
+ }
+
+ h1 {
+	 font-size: 50px;
+	 text-align: center;
+	 color:royalblue;
+ }
+
+ h3 {
+	 font-size: 20px;
+ }
+
+.target {
+	text-align: center;
+	color: black;
+}
+
+.line {
+	background-color:darkblue;
+	height: 4px;
+	margin:5px
+}
+
+.personalDates{
+	font-size: 20px;
+	color: gray;
+	font-weight: bold;
+	line-height: 32px;
+}
+.personalDates:hover {
+	text-decoration: underline;
+
+}
+
+p{
+	
+	color: maroon;
+	font-size: 15px;
+	margin: 27px;
+}
+
+p span {
+	color: blue;
+	text-decoration: underline;
+	font-size: 15px;
+}
+
+.achievements {
+	color: cadetblue;
+	font-size: 17;
+	background-color:darkgreen;
+	line-height: 25px;
+	font-style: italic;
+}
+.footer {
+	height: 70px;
+	color: turquoise;
+	font-style: italic;
+
+}
+
+.footer p {
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+
+
+
+.footer .myLink {
+	
+	font-size: 25px;
+	color: green;
+	
+}
+
+
+
